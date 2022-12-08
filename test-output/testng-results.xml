@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="13" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-08T06:56:23Z" name="Default suite" finished-at="2022-12-08T06:56:35Z" duration-ms="11538">
+    <groups>
+    </groups>
+    <test started-at="2022-12-08T06:56:23Z" name="Default test" finished-at="2022-12-08T06:56:35Z" duration-ms="11538">
+      <class name="Selenium.TricentisObstcaleCourse.Easy">
+        <test-method is-config="true" signature="initializeDriver()[pri:0, instance:Selenium.TricentisObstcaleCourse.Easy@5c2375a9]" started-at="2022-12-08T06:56:23Z" name="initializeDriver" finished-at="2022-12-08T06:56:28Z" duration-ms="4544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method signature="hiddenElement()[pri:0, instance:Selenium.TricentisObstcaleCourse.Easy@5c2375a9]" started-at="2022-12-08T06:56:28Z" name="hiddenElement" finished-at="2022-12-08T06:56:35Z" duration-ms="6684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiddenElement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Selenium.TricentisObstcaleCourse.Easy@5c2375a9]" started-at="2022-12-08T06:56:35Z" name="tearDown" finished-at="2022-12-08T06:56:35Z" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.TricentisObstcaleCourse.Easy -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

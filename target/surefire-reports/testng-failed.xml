@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="1" parallel="methods" name="Easy Obstacle Test(failed)" verbose="0">
+    <classes>
+      <class name="Selenium.TricentisObstcaleCourse.EasyTest">
+        <methods>
+          <include name="meethingScheduler"/>
+          <include name="waitAMoment"/>
+          <include name="hiddenElement"/>
+          <include name="tomorrow"/>
+          <include name="findAndFill"/>
+          <include name="idsAreNotEverything"/>
+          <include name="extractingText"/>
+          <include name="redStripe"/>
+          <include name="popupWindows"/>
+          <include name="initializeDriver"/>
+          <include name="tearDown"/>
+          <include name="escape"/>
+          <include name="theObvious"/>
+          <include name="futureChristmas"/>
+          <include name="twins"/>
+        </methods>
+      </class> <!-- Selenium.TricentisObstcaleCourse.EasyTest -->
+    </classes>
+  </test> <!-- Easy Obstacle Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
